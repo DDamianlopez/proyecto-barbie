@@ -1,0 +1,74 @@
+
+.contenedor{
+    border:  4px solid orangered;
+    display: flex;
+justify-content: space-between;
+}
+
+
+
+
+
+
+  
+
+    .tabla
+   
+
+{  
+    display: flex;
+    justify-content:left;
+    line-height: 100px;
+
+ 
+   
+}
+.tabla
+table, th, td {
+    border: 1px solid black;
+    border-radius: 10px;}
+    
+.p
+    {  
+       text-align: left;
+        font-style:oblique;
+        margin: 0.5rem 0.2rem;
+        font-family: 'avenir next lt pro';
+    font-weight:bold;
+    border: 5px outset palevioletred;
+    color:rgb(0, 0, 0);
+    background-color: rgb(231, 19, 118);
+    text-align: center;
+    }
+
+ .v
+ {font-family: 'avenir next lt pro';
+    font-weight:bold;
+    border: 5px outset palevioletred;
+    color:rgb(0, 0, 0);
+    background-color: rgb(231, 19, 118);
+    text-align: center;
+}
+
+.imagen42
+{position:absolute;top: 950px;
+left: 400px;
+height: 400px;
+width: 500px;}
+
+.imagen44
+{height: 500px;
+width: 700px;
+border-radius: 40px;
+margin-left: 1px;
+}
+.imagen44{
+    position:absolute; top: 1500px; right: 1200px;
+}
+
+.imagendavo
+{position:absolute; top: 2100px; height: 700px; width: 600px;}
+.fin
+{position:absolute;top: 2860px}
+.finfin
+{position:absolute; top: 2900px; left: 980px; height: 700px; width:900px;}
